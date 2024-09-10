@@ -2,11 +2,11 @@
     {
         "id": 1,
         "name": "Cdns",
-        "src": "https://atugatranapi.pages.dev/index.json"
+        "src": " atul22gcdns.pages.dev/index.json"
     },
     {
         "id": 2,
         "name": "QrCode",
-        "src": "https://atugatranapi.pages.dev/QrCode/qrcode.min.js"
+        "src": " atul22gcdns.pages.dev/QrCode/qrcode.min.js"
     }
 ]
